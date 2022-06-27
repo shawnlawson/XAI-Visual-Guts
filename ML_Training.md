@@ -10,7 +10,7 @@ In Linode, I created an Ubuntu 22.04 LTS instance with 32GB of RAM, 640GB SSD HD
 
 ## Install
 
-Once connected to this remote computer, I needed to install all of the NVidia CUDA requirements. Thankfull linode had a [guide](https://www.linode.com/docs/products/compute/gpu/guides/install-nvidia-cuda/) for this.
+Once connected to this remote computer, I needed to install all of the NVidia CUDA requirements. Thankfully linode had a [guide](https://www.linode.com/docs/products/compute/gpu/guides/install-nvidia-cuda/) for this.
 
 Because I'm connected to this remote computer by terminal, when it came to installing the CUDA Toolkit I chose the deb (network) option. and ran those commands provided.
 
@@ -27,7 +27,7 @@ Now onto [PyTorch](https://pytorch.org/get-started/locally/)
 > pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
 ```
 
-Git was already installed, so we only need to clone in Stylegan 3 into the place we want.
+Git was already installed, so we only need to clone Stylegan 3 into the place we want.
 ```
 > git clone https://github.com/NVlabs/stylegan3.git
 ```
@@ -68,7 +68,7 @@ These batch settings are for a V100. Once this is running we can follow the outp
 ```
 > tail -f nohup.out
 ```
-And we can always end the process by checking which it is with top and then kill -pid.
+And we can always end the process by checking with _top_ to see the process id and then _kill -pid_.
 
 ## Wait
 
