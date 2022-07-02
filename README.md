@@ -14,6 +14,9 @@ Additionally, the artist will publish/open source any code, discoveries, and how
 Philosophical musings and written products may occur and primarily framed within Flusser's concept of the Technical Image.
 
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+
 # Updates
 
 
