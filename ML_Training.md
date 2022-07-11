@@ -59,7 +59,7 @@ I created a couple extra folders on the server to manage my data and checkpoints
 --batch=8 \
 --batch-gpu=4 \
 --snap=5 \
---gamma=4 \
+--gamma=8 \
 --kimg=200 \
 --mirror=1
 ```

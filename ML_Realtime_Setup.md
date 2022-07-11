@@ -76,3 +76,11 @@ torch.utils.cpp_extension.load(name=module_name, build_directory=cached_build_di
 ```
 
 There are situations where this change to custom\_ops.py is not needed. Stylegan 3 is loading and _just in time_ (JIT) compiling CUDA kernels. You can see them in stylegan3/torch\_utils/ops. This is what visual studio and the python ninja libraries are for. Sometimes, not all the time, running stylegan 3 for training, generating images, or visualizing will create a CUDA kernel cache. Touch Designer will continue to complain and toss errors, but may see these caches and continue to run. Editing the custom\_ops.py file will make it such that Touch Designer will do the JIT compiling correctly on its own.
+
+Want to see if your CUDA kernels are cached? Replace "Shawn Lawson" with your user account in the path below
+```bash
+C:\Users\Shawn Lawson\AppData\Local\torch_extensions\torch_extensions\Cache
+```
+You should see folders for "bias_act_plugin", "filtered_lrelu_plugin", and "upfirdn2d_plugin."
+
+
