@@ -25,14 +25,14 @@ Create a short audiovisual video/animation from AIML trained by the artist that 
 
 This was a proof of concept of data capture, training, and loading the NN into Touch Designer.
 
-[![Demo of real-time Stylegan 3](./XAI_First_Update.png)](https://vimeo.com/728939660 "Demo of real-time Stylegan 3")
+[![Demo of real-time Stylegan 3](./Images/XAI_First_Update.png)](https://vimeo.com/728939660 "Demo of real-time Stylegan 3")
 
 
 ## Second update
 
 This was demonstrating how to load up multiple NNs and linearly interpolate (LERP) or blend specific layers between two different NNs. Leading to entirely swapping out the layer of one NN with the equivalent layer of second NN. 
 
-[![Swapping tensor layers in real-time between two NNs](./ML_LayerSwap.png)](https://vimeo.com/728940929 "Swapping tensor layers in real-time between two NNs")
+[![Swapping tensor layers in real-time between two NNs](./Images/ML_LayerSwap.png)](https://vimeo.com/728940929 "Swapping tensor layers in real-time between two NNs")
 
 
 
@@ -41,7 +41,7 @@ This was demonstrating how to load up multiple NNs and linearly interpolate (LER
 
 Grid video showing three different people with final image, input, L14, L10, L6, and L0 synthesis layers all with the exact same NN input data. 
 
-[![Layer states of machine learning in training](./all_five.PNG)](https://vimeo.com/727455868 "Layer states of machine learning in training")
+[![Layer states of machine learning in training](./Images/all_five.PNG)](https://vimeo.com/727455868 "Layer states of machine learning in training")
 
 
 
