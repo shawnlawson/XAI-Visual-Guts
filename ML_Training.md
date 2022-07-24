@@ -56,12 +56,12 @@ I created a couple extra folders on the server to manage my data and checkpoints
 --data=/root/datasets/set05.zip \
 --cfg=stylegan3-t \
 --gpus=1 \
---batch=8 \
+--batch=32 \
 --batch-gpu=4 \
 --snap=5 \
---gamma=8 \
+--gamma=32 \
 --kimg=200 \
---mirror=1
+--mirror=0
 ```
 
 These batch settings are for a V100. Once this is running we can follow the output by running this:

@@ -23,14 +23,14 @@ Create a short audiovisual video/animation from AIML trained by the artist that 
 
 ## First update
 
-This was a proof of concept of data capture, training, and loading the NN into Touch Designer.
+This was a proof of concept with some data capture, NN training, and loading the NN into Touch Designer. Then, it shows how to select and use synthesis layers in real-time.
 
 [![Demo of real-time Stylegan 3](./Images/XAI_First_Update.png)](https://vimeo.com/728939660 "Demo of real-time Stylegan 3")
 
 
 ## Second update
 
-This was demonstrating how to load up multiple NNs and linearly interpolate (LERP) or blend specific layers between two different NNs. Leading to entirely swapping out the layer of one NN with the equivalent layer of second NN. 
+This demonstes how to load up multiple NNs and linearly interpolate (LERP) or blend specific tensor layer(s) between two different NNs. This lead to entirely swapping out the layer of one NN with the equivalent layer of second NN. This video starts with a couple seconds of one NN, then a couple seconds of the second NN. The remainder of the video is showing various treatments when LERPing tensor layers.
 
 [![Swapping tensor layers in real-time between two NNs](./Images/ML_LayerSwap.png)](https://vimeo.com/728940929 "Swapping tensor layers in real-time between two NNs")
 
@@ -39,7 +39,7 @@ This was demonstrating how to load up multiple NNs and linearly interpolate (LER
 
 ## Third update
 
-Grid video showing three different people with final image, input, L14, L10, L6, and L0 synthesis layers all with the exact same NN input data. 
+This video shows five different people, vertically, at various degrees of completed NN training, horizonally, with final image, input, L14, L10, L6, and L0 synthesis layers all with the exact same NN input data.
 
 [![Layer states of machine learning in training](./Images/all_five.PNG)](https://vimeo.com/727455868 "Layer states of machine learning in training")
 
@@ -48,7 +48,7 @@ Grid video showing three different people with final image, input, L14, L10, L6,
 
 ## Final update
 
-Animations were created and sent to the musicians. They made several recordings in a live cinema
+Animations were created and sent to the musicians. They made several recordings in a live cinema method - improvisational performance with projected video. The recordings were then used and analyzed and used to manipulation parameters of the NN input generators. Several visual recordings were made and edited together with titles and audio.
 
 
 
@@ -62,4 +62,4 @@ Audio Engineer - [Ross Rice](https://feistyfishrr.wixsite.com/rossarice)
 Video Capture - [Jeremy Stewart](https://blindelephants.co)
 Storytellers  -  , , ,
 
-Machine Learning - [ASU Research Computing](https://cores.research.asu.edu/research-computing/about)
+Machine Learning Hardware Support - [ASU Research Computing](https://cores.research.asu.edu/research-computing/about)
