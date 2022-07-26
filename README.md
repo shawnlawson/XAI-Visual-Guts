@@ -7,7 +7,7 @@ For details:
 - Dataset gathering and processing - [ML_Datasets](./ML_Datasets.md)
 - Setting up for real-time machine learning  - [ML_Realtime_Setup](./ML_Realtime_Setup.md)
 - How to use real-time machine learning  - [ML_Realtime](./ML_Realtime.md)
-
+- Final thoughts - [ML_PostMortem](./ML_PostMortem)
 
 # Pitch
 
@@ -55,9 +55,10 @@ Animations were created and sent to the musicians. They made several recordings 
 
 # Credits
 
-Composer - [Michael Century](http://nextcentury.ca)
 Vilolist - [Chris Fisher-Lochhead](http://cflmusic.com)
+Electronics (EIS) - [Michael Century](http://nextcentury.ca)
 Audio Engineer - [Ross Rice](https://feistyfishrr.wixsite.com/rossarice)
+EIS - Expanded Instrument System, with the Permission of The Pauline Oliveros Trust and The Ministry of Maat. [https://www.ministryofmaat.org](https://www.ministryofmaat.org)
 
 Video Capture - [Jeremy Stewart](https://blindelephants.co)
 Storytellers  -  , , ,
