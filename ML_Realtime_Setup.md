@@ -53,11 +53,11 @@ We can run a test to make sure this all works. From inside the stylegan 3 reposi
 ## Changes to Stylegan 3
 
 Because Touch Designer is running it's own copy of python; it does not know about everything we just installed to make stylegan 3 work. In this case, we simply need to tell stylegan where to find the expected libraries we just installed. To do this, we need to edit a file at stylegan3/torch\_utils/custom\_ops.py  I added the following lines of code at lines 109-111. Anyone else will need to modify these based on their installed location of python.
+
 ```python
 include_i_flag = ['-IC:/Users/Shawn Lawson/AppData/Local/Programs/Python/Python39/include']
 include_me = ['C:/Users/Shawn Lawson/AppData/Local/Programs/Python/Python39/include']
 library_me = ['/LIBPATH:C:/Users/Shawn Lawson/AppData/Local/Programs/Python/Python39/libs']
-if len(all_source_dirs) == 1: # and ('TORCH_EXTENSIONS_DIR' in os.environ):
 ```
 
 Now we need to add our extra paths into the cpp compiler. On line 139 we find the following. 
