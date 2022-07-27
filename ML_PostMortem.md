@@ -26,7 +26,7 @@ Data Feminism
 
 training, which images from a set, how many, easy to drop those that don't work (outliers, non-conformers)
 
-technical - mirroring, likeness, loss of humanness from movement. Holes/gaps in latent space
+technical - mirroring, likeness, loss of humanness from movement. Holes/gaps in latent space. Some quick, some not, 
 
 
 
@@ -40,7 +40,7 @@ how a NN is both algorithm and database combined
 
 
 
-## Affect
+## Effect
 
 
 reinforcement learning -> really builds stereotypes
