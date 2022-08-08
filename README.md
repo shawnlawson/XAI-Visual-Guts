@@ -1,10 +1,10 @@
 # XAI-Visual-Guts
  
-This repository archives the artistic research results from the production grants Leonardo Rebooted: [https://quoartis.org/project/leonardo-rebooted/](https://quoartis.org/project/leonardo-rebooted/); within the category of Artificial Intelligence and Quantum Computing.
+This repository archives the artistic research results from the production grants Leonardo Rebooted: [https://quoartis.org/project/leonardo-rebooted/](https://quoartis.org/project/leonardo-rebooted/); within the category of Artificial Intelligence and Quantum Computing. Funded by Da Vinci Labs [https://www.davincilabs.eu](https://www.davincilabs.eu)
 
 For details:  
 - Setting up for machine learning and training - [ML_Training](./ML_Training.md)
-- Datasets - [ML_Datasets](./ML_Datasets.md)
+- Data set information - [ML_Datasets](./ML_Datasets.md)
 - Setting up for real-time machine learning  - [ML_Realtime_Setup](./ML_Realtime_Setup.md)
 - How to use real-time machine learning  - [ML_Realtime](./ML_Realtime.md)
 - Final thoughts - [ML_PostMortem](./ML_PostMortem)
@@ -56,11 +56,13 @@ Animations were created and sent to the musicians. They made several recordings 
 # Credits
 
 Vilolist - [Chris Fisher-Lochhead](http://cflmusic.com)
-Electronics (EIS) - [Michael Century](http://nextcentury.ca)
+Electronic Instrument System (EIS) - [Michael Century](http://nextcentury.ca)
 Audio Engineer - [Ross Rice](https://feistyfishrr.wixsite.com/rossarice)
 EIS - Expanded Instrument System, with the Permission of The Pauline Oliveros Trust and The Ministry of Maat. [https://www.ministryofmaat.org](https://www.ministryofmaat.org)
 
-Video Capture - [Jeremy Stewart](https://blindelephants.co)
+Data Set Wrangler - [Jeremy Stewart](https://blindelephants.co)
 Storytellers  -  Haley Day, Mike Esperanza, Olivia Link, Kendall Niblett, and Nia Sadler
 
-Machine Learning Hardware Support - [ASU Research Computing](https://cores.research.asu.edu/research-computing/about)
+Machine Learning Hardware Support - [Research Computing, Arizona State University](https://cores.research.asu.edu/research-computing/about)
+
+Sound Recording Facilities - [Experimental Media & Performing Arts Center, Rensselaer Polytechnic Institute](https://empac.rpi.edu)
