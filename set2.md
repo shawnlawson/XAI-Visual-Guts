@@ -2,15 +2,15 @@
 
 This first image is how stylegan 3 is initialized with random data.
 
-![Dataset 3 training image](./Images/sets/set3/fakes_init.png)
+![Dataset 3 training image](./Images/sets/set3/fakes000000.png)
 
 The next six images are pulled sampled during the training. These are not taken at regular intervals.
 
-![Dataset 3 training image](./Images/sets/set3/fakes000020.png)
-
-![Dataset 3 training image](./Images/sets/set3/fakes000040.png)
-
 ![Dataset 3 training image](./Images/sets/set3/fakes000080.png)
+
+![Dataset 3 training image](./Images/sets/set3/fakes000240.png)
+
+![Dataset 3 training image](./Images/sets/set3/fakes000400.png)
 
 ![Dataset 3 training image](./Images/sets/set3/fakes000120.png)
 
