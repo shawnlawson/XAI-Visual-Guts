@@ -11,7 +11,7 @@ Where data comes from has an incredible impact on the final NN as discovered and
 
 A method to approach many issues and questions around _data_ is through D'Ignazio and Klein's concept of Data Feminism: 
 
-    Throughout the book, we have described out seven principles of data feminism: examine power, challenge power, elevate emotion and embodiment, rethink binaries and hierarchies, embrace pluralism, consider context, and make labor visible. We derived these principles from the major ideas that have emerged in the past several decades of intersectional feminist activism and critical thought. At the same time, we welcome the notion that there are many other possible starting points that share the end goal of using data (or refusing data) in order to end oppression.[^5]
+>    Throughout the book, we have described out seven principles of data feminism: examine power, challenge power, elevate emotion and embodiment, rethink binaries and hierarchies, embrace pluralism, consider context, and make labor visible. We derived these principles from the major ideas that have emerged in the past several decades of intersectional feminist activism and critical thought. At the same time, we welcome the notion that there are many other possible starting points that share the end goal of using data (or refusing data) in order to end oppression.[^5]
 
 During the course of this project, I have tried to be aware of choices made. And, to the extent that I am able, the implications those choices have.
 
