@@ -7,7 +7,7 @@ For details:
 - Data set information - [ML_Datasets](./ML_Datasets.md)
 - Setting up for real-time machine learning  - [ML_Realtime_Setup](./ML_Realtime_Setup.md)
 - How to use real-time machine learning  - [ML_Realtime](./ML_Realtime.md)
-- Final thoughts - [ML_PostMortem](./ML_PostMortem)
+- Final thoughts - [ML_PostMortem](./ML_PostMortem.md)
 
 # Pitch
 
@@ -51,11 +51,15 @@ Animations were created and sent to the musicians. They made several recordings 
 # Credits
 
 Vilolist - [Chris Fisher-Lochhead](http://cflmusic.com)
+
 Electronic Instrument System (EIS) - [Michael Century](http://nextcentury.ca)
+
 Audio Engineer - [Ross Rice](https://feistyfishrr.wixsite.com/rossarice)
+
 EIS - Expanded Instrument System, with the Permission of The Pauline Oliveros Trust and The Ministry of Maat. [https://www.ministryofmaat.org](https://www.ministryofmaat.org)
 
 Data Set Wrangler - [Jeremy Stewart](https://blindelephants.co)
+
 Storytellers  -  Haley Day, Mike Esperanza, Olivia Link, Kendall Niblett, and Nia Sadler
 
 Machine Learning Hardware Support - [Research Computing, Arizona State University](https://cores.research.asu.edu/research-computing/about)
