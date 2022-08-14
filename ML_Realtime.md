@@ -6,7 +6,7 @@ For the goal of this project, I needed to run and manipulate the trained neural 
 
 This presumes some basic knowledge of Touch Designer. The file can be found at [./TouchDesigner/styleGAN_basic.toe](./TouchDesigner/styleGAN_basic.toe). 
 
-![Basic setup in Touch Designer](./Images/TD_basic_setup.png)
+![Basic setup in Touch Designer](./Images/TD_basic_setup.PNG)
 
 The purple _source_ node is a [NoiseTop](https://docs.derivative.ca/Noise_TOP). This noise image is used as the input vector for the Stylegan network. Stylegan 3 is expecting a 1D array of length 512 with floating point values ranging from -1 to 1. On the _source_ I chose Simplex 2D GPU for Type of noise. Default values for noise are 0 to 1. I set .9 for Amplitude, 0 for Offset to create roughly a -1 to 1 value range, and checked on monochrome. On the Transform tab the script "me.time.seconds * .1" was added to the translate x property, so that we're constantly updating the noise values. On the Common tab, I set resolution to 1x512, Output Aspect to Resolution, and Pixel Format to 32-bit Float (Mono).
 
