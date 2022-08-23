@@ -52,25 +52,25 @@ Fussy. It could generate an OK-ish image with a FID around 60, but I wanted bett
 
 ## Conclusion
 
-It's very hard to not perceive NNs as stereotype enhancers. The process of training a NN is that of reinforcement learning. When I reconsider the data source and data curation process, these may be the most important stages. Similar to how advertisements work through juxtaposition of product to movie star, any intentional or unintentional juxtaposition of data in the data set will propagate and be reinforced thousands or millions of times over. A simple google search turns up quick examples: [racist chatbot](https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation) and [racist algorithms](https://www.vice.com/en/article/qjk8jx/racist-algorithms-are-making-robots-racist-too). 
+The process of training a NN is that of reinforcement learning. Which makes it hard to not perceive NNs as stereotype enhancers. When I reconsider the data source and data curation process, these may be the most important stages. Similar to how advertisements work through juxtaposition of product to movie star, any intentional or unintentional juxtaposition of data in the data set will propagate and be reinforced thousands or millions of times over. A simple google search turns up quick examples: [racist chatbot](https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation) and [racist algorithms](https://www.vice.com/en/article/qjk8jx/racist-algorithms-are-making-robots-racist-too). 
 
 Pause. 
 
-What happens to all of this when crossed into the space of quantum computing? 
+What happens to all of this when it intersects with the space of quantum computing? 
 
-It's hard to predict the future. In the space of machine learning the easiest guess is to say that training time will become instantaneous, rather than waiting weeks and consuming incredible amounts natural resources. This is a double-sided result. Great, we can generate and test thousands of variations to reach more accurate NNs. It's like standing on the doorstep to incredible leaps forward in technological progress and improvements to humanity. 
+In the space of machine learning the easiest guess is to say that training time will become instantaneous, rather than waiting weeks and consuming incredible amounts natural resources. This is a double-sided result. Great, we can generate and test thousands of variations to achieve more accurate NNs. It's like standing on the doorstep to incredible leaps forward in technological progress and improvements to humanity. 
 
-Not so great, we can generate and test thousands of variations to reach more accurate NNs. Speed has always been an issue. Virilio and Lotringer have discussed the effects of speed on war[^6]. While this is not a forgone conclusion, it is critical to know how important speed is to many aspects of techno-modern human existence. As with any emergent technology, it's power to control or dominate has been a historical reality throughout human history. 
+Not so great, we can generate and test thousands of variations to achieve more accurate NNs. Speed has always been an issue. Virilio and Lotringer have discussed the effects of speed on war[^6]. While this is not a forgone conclusion, it is critical to know how important speed is to many aspects of techno-modern human existence. As with any emergent technology, it's power to control or dominate has been a historical reality throughout human history. 
 
-Who creates and has access to quantum computing will rapidly shift global economic and government structures. Encryption keys that would have taken millions of years to break are now irrelevant. Want to spin up a DeepFake[^7] NN to propagandize, to psyops[^8] a group of people, to rewrite historical broadcasts[^9], or to deliver mass media news by anyone without consent - no problem. You can have it and be distributing what you need in a matter of seconds. Total control. "One moves towards a centrally programmed, totalitarian society of image receivers and image administrators... ."[^10]
+Who creates and has access to quantum computing will rapidly shift global economic and government structures. Encryption keys or passwords that would have taken millions of years to decrypt are now irrelevant. Want to spin up a DeepFake[^7] NN to propagandize, to psyops[^8] a group of people, to rewrite historical broadcasts[^9], or to deliver mass media news by anyone without consent - no problem. You can have it and be distributing what you need in a matter of seconds. Total information control. "One moves towards a centrally programmed, totalitarian society of image receivers and image administrators... ."[^10] This includes real-time broadcast and image manipulation/reconstruction. Only real life will become the verifiable ground truth. Anything else is subject to possible fabrication.
 
 Pause.
 
-Let's return to a couple of Data Feminism's principles: examine power and challenge power. 
+In this moment, I reflect on a couple of Data Feminism's principles: examine power and challenge power. Making machine learning more explainable, or being able to explain what machine learning is doing, even somewhat, returns some power back to the exploited. Injecting more Data Feminism Principles: embrace pluralism, consider context, and make labor visible. Making the end-to-end process of data collection, data curation, and data labeling more open and explainable allows more people to have a voice and know how data is used and what implications varying datasets have. 
 
 
 
-
+elevate emotion and embodiment, rethink binaries and hierarchies
 
 
 

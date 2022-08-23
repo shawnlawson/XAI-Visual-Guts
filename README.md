@@ -45,7 +45,7 @@ This video shows five different people, vertically, at various degrees of comple
 
 Animations were created and sent to the musicians. They made several recordings in a live cinema method - improvisational performance with projected video. The recordings were then analyzed and used to manipulate parameters of the NN input generators. Several visual recordings were made and edited together with titles and audio.
 
-[![Quanta](./Images/quanta.png)](https://vimeo.com/727455868 "Quanta")
+[![Quanta](./Images/quanta.png)](https://vimeo.com/739492946 "Quanta")
 
 
 # Credits
