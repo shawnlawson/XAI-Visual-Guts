@@ -66,11 +66,17 @@ Who creates and has access to quantum computing will rapidly shift global econom
 
 Pause.
 
-In this moment, I reflect on a couple of Data Feminism's principles: examine power and challenge power. Making machine learning more explainable, or being able to explain what machine learning is doing, even somewhat, returns some power back to the exploited. Injecting more Data Feminism Principles: embrace pluralism, consider context, and make labor visible. Making the end-to-end process of data collection, data curation, and data labeling more open and explainable allows more people to have a voice and know how data is used and what implications varying datasets have. 
+In this moment, I reflect on a couple of Data Feminism's principles: examine power and challenge power. Making machine learning more explainable, or being able to explain how machine learning is computing, even somewhat, returns some power back to the exploited. 
 
+Injecting more Data Feminism Principles: embrace pluralism, consider context, and make labor visible. Making the end-to-end process of data collection, data curation, and data labeling more open and explainable allows more people to have a voice, know how data is used, and be aware of what implications varying datasets have. 
 
+Returning to Data Feminism to consider: elevate emotion and embodiment. Too frequently data is disassociated from it's context and real world bodily impact. Everything is situational, meaning that one machine learning solution is most likely not a perfect fit for another situation. Machine learning should be used by those it directly impacts. Rather than external actors imposing their perspective without having direct, lived experience of the impact.
 
-elevate emotion and embodiment, rethink binaries and hierarchies
+Finally, let's remind ourselves of the last set of Data Feminism principles: rethinking binaries and hierarchies. Many times machine learning is used for classification tasks: male/female, white/black, and terrorist/non-terrorist. Already we see how this quickly turns into a us versus them. We also recognize that this approach completely ignores trans-gender, latino, mixed-ethnicity, and so on. Anyone not fitting a clean classification is marginalized and made invisible, thereby structurally powerless in the system.
+
+Pause.
+
+I think while we brush the edge of potentially sophisticated algorithms and sit on the cusp incredible compute speed we really should remember why we make these technological leaps and bounds. It should not just be for the inventors and investors; but for everyone, humanity at large. 
 
 
 
