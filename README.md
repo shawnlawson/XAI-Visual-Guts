@@ -1,13 +1,13 @@
 # XAI-Visual-Guts
  
-This repository archives the artistic research results from the production grants Leonardo Rebooted: [https://quoartis.org/project/leonardo-rebooted/](https://quoartis.org/project/leonardo-rebooted/); within the category of Artificial Intelligence and Quantum Computing. Funded by Da Vinci Labs [https://www.davincilabs.eu](https://www.davincilabs.eu)
+This repository archives the artistic research results from the production grant Leonardo Rebooted: [https://quoartis.org/project/leonardo-rebooted/](https://quoartis.org/project/leonardo-rebooted/); within the category of Artificial Intelligence and Quantum Computing. Funded by Da Vinci Labs [https://www.davincilabs.eu](https://www.davincilabs.eu)
 
 For details:  
 - Setting up for machine learning and training - [ML_Training](./ML_Training.md)
 - Data set information - [ML_Datasets](./ML_Datasets.md)
 - Setting up for real-time machine learning  - [ML_Realtime_Setup](./ML_Realtime_Setup.md)
 - How to use real-time machine learning  - [ML_Realtime](./ML_Realtime.md)
-- Final thoughts - [ML_PostMortem](./ML_PostMortem.md)
+- Thoughts - [ML_PostMortem](./ML_PostMortem.md)
 
 # Pitch
 
@@ -22,14 +22,14 @@ Create a short audiovisual video/animation from AIML trained by the artist that 
 
 ## First update
 
-This was a proof of concept with some data capture, NN training, and loading the NN into Touch Designer. Then, it shows how to select and use synthesis layers in real-time.
+This video was a proof of concept with some data capture, NN training, and loading the NN into Touch Designer. Then, it shows how to select and use synthesis layers in real-time.
 
 [![Demo of real-time Stylegan 3](./Images/XAI_First_Update.png)](https://vimeo.com/728939660 "Demo of real-time Stylegan 3")
 
 
 ## Second update
 
-This demonstes how to load up multiple NNs and linearly interpolate (LERP) or blend specific tensor layer(s) between two different NNs. This lead to entirely swapping out the layer of one NN with the equivalent layer of second NN. This video starts with a couple seconds of one NN, then a couple seconds of the second NN. The remainder of the video is showing various treatments when LERPing tensor layers.
+This video demonstes how to load up multiple NNs and linearly interpolate (LERP) or blend specific tensor layer(s) between two different NNs. This lead to entirely swapping out the layer of one NN with the equivalent layer of second NN. This video starts with a couple seconds of one NN, then a couple seconds of the second NN. The remainder of the video is showing various treatments when LERPing tensor layers.
 
 [![Swapping tensor layers in real-time between two NNs](./Images/ML_LayerSwap.png)](https://vimeo.com/728940929 "Swapping tensor layers in real-time between two NNs")
 
@@ -43,7 +43,7 @@ This video shows five different people, vertically, at various degrees of comple
 
 ## Final update
 
-Animations were created and sent to the musicians. They made several recordings in a live cinema method - improvisational performance with projected video. The recordings were then analyzed and used to manipulate parameters of the NN input generators. Several visual recordings were made and edited together with titles and audio.
+Animations were created and sent to the musicians. They made several recordings in a live cinema method - improvisational performance with projected video. The recordings were then analyzed and used to manipulate parameters of the NN input generators. Several visual recordings were made and edited together with titles and the recorded audio.
 
 [![Quanta](./Images/quanta.png)](https://vimeo.com/739492946 "Quanta")
 

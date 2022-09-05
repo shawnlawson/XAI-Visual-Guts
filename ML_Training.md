@@ -55,7 +55,7 @@ Install anything that might be needed. An output image should be created in the 
 
 ## Training
 
-I created a couple extra folders on the server to manage my data and checkpoints. Then, I used (Filezilla)[https://filezilla-project.org] in sftp mode to transfer my datasets to my server. From inside the stylegan 3 repository I ran their training script with _nohup_ in front so that if my connection closed or local computer went to sleep the training would continue.
+I created a couple extra folders on the server to manage my data and checkpoints. Then, I used [Filezilla](https://filezilla-project.org) in sftp mode to transfer my datasets to my server. From inside the stylegan 3 repository I ran their training script with _nohup_ in front so that if my connection closed or local computer went to sleep the remote training would continue.
 
 ```bash 
 > nohup python3 train.py \

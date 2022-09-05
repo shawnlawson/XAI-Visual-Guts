@@ -5,7 +5,7 @@ Going into this project I held a lot of concerns about machine learning (ML) wit
 
 ## Sourcing Data
 
-Despite there existing a large number of open source datasets[^1], I felt it was best to capture my own data set for this project. Even if the publicly data sets are open source, how do I know who's data it really is? Who owns it? Did they give permission? Do the sources of the data even know they are data? For example, looking at pre-built neural nets (NN)[^2]. Some  have copyright information and some don't. Some are created from other artist's work without their knowledge. I can now create an near infinite number of paintings in the likeness of another artist's style. Is this acceptable? Should the artist receive royalties? 
+Despite there existing a large number of open source datasets[^1], I felt it was best to capture my own data set for this project. Even if the publicly data sets are open source, how do I know whose data it really is? Who owns it? Did they give permission? Do the sources of the data even know they are data? For example, looking at pre-built neural nets (NN)[^2]. Some  have copyright information and some don't. Some are created from other artist's work without their knowledge. I can now create an near infinite number of paintings in the likeness of another artist's style. Is this acceptable? Should the artist receive royalties? 
 
 Where data comes from has an incredible impact on the final NN as discovered and critiqued by Crawford and Paglen[^3]. Moreover, insufficient data creates instances experienced racism, like that of Joy Buolamwini. This lead her to create the Algorithm Justice League[^4]. 
 
@@ -25,7 +25,7 @@ These were all easy questions for me to answer. Although, I became aware of how 
 
 ## Understanding Data
 
-I find the generative adversarial networks (GANs) computationally very interesting. First, the trained NNs are algorithms/functions; data goes in to be processed and resulting data comes out. Second, the NNs are databases (dictionaries); description (key) goes in and a computed image (object) comes out. Third, the NNs are the result of compression; in my case 16GB of data was trained into a NN with a size 240MB. In summation, a NN is a compressed database and algorithm. Exact data can be recalled - like a database; but also all data in between the exact data - like a function.
+I find the generative adversarial networks (GANs) computationally very interesting. First, the trained NNs are algorithms/functions; data goes in to be processed and resulting data comes out. Second, the NNs are databases (dictionaries); description (key) goes in and a discrete computed image (object) comes out. Third, the NNs are the result of compression; in my case 16GB of data was trained into a NN with a size 240MB. In summation, a NN is a compressed database and algorithm. Exact data can be recalled - like a database; but also all data in between the exact data - like a function.
 
 I decided to train separate NNs for each person rather than train everyone together into a single NN. In this way, I would be able to more effectively make comparisons at all stages of the project. To my surprise, I found shocking differences between NNs during the training process. I had expected each data set's NN to resolve similarly to the Flicker Faces data set with nice smooth gradients and lots of detail. In reality, each person was drastically different. I found this to be an unintended, poetic, and comforting discovery. When I presumed that everyone would be compressed into a conforming algorithmic data set, it appeared that uniqueness could be preserved. 
 
@@ -62,7 +62,7 @@ In the space of machine learning the easiest guess is to say that training time 
 
 Not so great, we can generate and test thousands of variations to achieve more accurate NNs. Speed has always been an issue. Virilio and Lotringer have discussed the effects of speed on war[^6]. While this is not a forgone conclusion, it is critical to know how important speed is to many aspects of techno-modern human existence. As with any emergent technology, it's power to control or dominate has been a historical reality throughout human history. 
 
-Who creates and has access to quantum computing will rapidly shift global economic and government structures. Encryption keys or passwords that would have taken millions of years to decrypt are now irrelevant. Want to spin up a DeepFake[^7] NN to propagandize, to psyops[^8] a group of people, to rewrite historical broadcasts[^9], or to deliver mass media news by anyone without consent - no problem. You can have it and be distributing what you need in a matter of seconds. Total information control. "One moves towards a centrally programmed, totalitarian society of image receivers and image administrators... ."[^10] This includes real-time broadcast and image manipulation/reconstruction. Only real life will become the verifiable ground truth. Anything else is subject to possible fabrication.
+Who creates and has access to quantum computing will rapidly shift global economic and government structures. Encryption keys or passwords that would have taken millions of years to decrypt are now irrelevant. Want to spin up a DeepFake[^7] NN to propagandize, to psyops[^8] a group of people, to rewrite historical broadcasts[^9], or to deliver mass media news by anyone without consent - no problem. You can have it and be distributing what you need in a matter of seconds. Total information control. "One moves towards a centrally programmed, totalitarian society of image receivers and image administrators... ."[^10] This includes real-time broadcast and image manipulation/reconstruction. Only real life will become the verifiable ground truth. Anything else is subject to possible fabrication. 
 
 Pause.
 
@@ -72,11 +72,11 @@ Injecting more Data Feminism Principles: embrace pluralism, consider context, an
 
 Returning to Data Feminism to consider: elevate emotion and embodiment. Too frequently data is disassociated from it's context and real world bodily impact. Everything is situational, meaning that one machine learning solution is most likely not a perfect fit for another situation. Machine learning should be used by those it directly impacts. Rather than external actors imposing their perspective without having direct, lived experience of the impact.
 
-Finally, let's remind ourselves of the last set of Data Feminism principles: rethinking binaries and hierarchies. Many times machine learning is used for classification tasks: male/female, white/black, and terrorist/non-terrorist. Already we see how this quickly turns into a us versus them. We also recognize that this approach completely ignores trans-gender, latino, mixed-ethnicity, and so on. Anyone not fitting a clean classification is marginalized and made invisible, thereby structurally powerless in the system.
+Finally, let's remind ourselves of the last set of Data Feminism principles: rethinking binaries and hierarchies. Quote often machine learning is used for classification tasks: male/female, white/black, and terrorist/non-terrorist. Already we see how this quickly turns into a us versus them. We also recognize that this approach completely ignores trans-gender, latino, mixed-ethnicity, and so on. Anyone not fitting a clean classification is marginalized and made invisible, thereby structurally powerless in the system.
 
 Pause.
 
-I think while we brush the edge of potentially sophisticated algorithms and sit on the cusp incredible compute speed we really should remember why we make these technological leaps and bounds. It should not just be for the inventors and investors; but for everyone, humanity at large. 
+I think that while we brush the edge of potentially sophisticated algorithms and sit on the cusp of incredible compute speed we really should remember why we make these technological leaps and bounds; and the responsibility inherit.[^11] It should not just be for the inventors and investors; but for everyone, humanity at large. 
 
 
 
@@ -93,4 +93,5 @@ I think while we brush the edge of potentially sophisticated algorithms and sit 
 [^8]: https://en.wikipedia.org/wiki/Psychological_warfare
 [^9]: George Orwell, "Nineteen Eighty-Four," 1949.
 [^10]: Vilém Flusser, "Into the Universe of Technical Images", University of Minnesota press, Minneapolis, 2011. pg 4.
+[^11]: Historical example of incredible technological progress and responsibility, https://en.wikipedia.org/wiki/Manhattan_Project
 
