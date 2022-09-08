@@ -5,7 +5,7 @@ This first image is how stylegan 3 is initialized with random data.
 
 ![Dataset 5 training image](./Images/sets/set5/fakes_init.png)
 
-The next six images are pulled sampled during the training. These are not taken at regular intervals.
+The next six images are pulled and sampled during the training. These are not taken at regular intervals.
 
 ![Dataset 5 training image](./Images/sets/set5/fakes000040.png)
 
@@ -19,6 +19,6 @@ The next six images are pulled sampled during the training. These are not taken 
 
 ![Dataset 5 training image](./Images/sets/set5/fakes000460.png)
 
-This is the an image of the expected or real images that stylegan should produce.
+This is an image of the expected or real images that stylegan should produce.
 
 ![Dataset 5 training image](./Images/sets/set5/reals.png)
