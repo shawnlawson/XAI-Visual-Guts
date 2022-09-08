@@ -18,6 +18,6 @@ The next six images are pulled and sampled during the training. These are not ta
 
 ![Dataset 2 training image](./Images/sets/set2/fakes000600.png)
 
-This is the an image of the expected or real images that stylegan should produce.
+This is an image of the expected or real images that stylegan should produce.
 
 ![Dataset 2 training image](./Images/sets/set2/reals.png)
