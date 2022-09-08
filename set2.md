@@ -4,7 +4,7 @@ This first image is how stylegan 3 is initialized with random data.
 
 ![Dataset 2 training image](./Images/sets/set2/fakes000000.png)
 
-The next six images are pulled sampled during the training. These are not taken at regular intervals.
+The next six images are pulled and sampled during the training. These are not taken at regular intervals.
 
 ![Dataset 2 training image](./Images/sets/set2/fakes000080.png)
 
