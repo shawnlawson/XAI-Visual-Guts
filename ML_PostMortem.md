@@ -11,7 +11,7 @@ Where data comes from has an incredible impact on the final NN as discovered and
 
 A method to approach many issues and questions around _data_ is through D'Ignazio and Klein's concept of Data Feminism: 
 
->    Throughout the book, we have described seven principles of data feminism: examine power, challenge power, elevate emotion and embodiment, rethink binaries and hierarchies, embrace pluralism, consider context, and make labor visible. We derived these principles from the major ideas that have emerged in the past several decades of intersectional feminist activism and critical thought. At the same time, we welcome the notion that many other possible starting points share the end goal of using data (or refusing data) to end oppression.[^5]
+>    Throughout the book, we have described out seven principles of data feminism: examine power, challenge power, elevate emotion and embodiment, rethink binaries and hierarchies, embrace pluralism, consider context, and make labor visible. We derived these principles from the major ideas that have emerged in the past several decades of intersectional feminist activism and critical thought. At the same time, we welcome the notion that there are many other possible starting points that share the end goal of using data (or refusing data) in order to end oppression.[^5]
 
 During the course of this project, I have tried to be aware of the choices I made. And, to the extent that I am able, be mindful of their implications.
 
@@ -58,7 +58,7 @@ Pause.
 
 What happens to all of this when it intersects with the space of quantum computing? 
 
-In the space of machine learning, the easiest guess is to say that training time will become instantaneous, rather than waiting weeks and consuming incredible amounts of natural resources. This is a double-sided result. THanks to this property, we can generate and test thousands of variations to achieve more accurate NNs. It's like standing on the doorstep to incredible leaps forward in technological progress and improvements to humanity. 
+In the space of machine learning, the easiest guess is to say that training time will become instantaneous, rather than waiting weeks and consuming incredible amounts of natural resources. This is a double-sided result. Thanks to this property, we can generate and test thousands of variations to achieve more accurate NNs. It's like standing on the doorstep to incredible leaps forward in technological progress and improvements to humanity.
 
 Not so great, we can generate and test thousands of variations to achieve more accurate NNs. Speed has always been an issue. Virilio and Lotringer have discussed the effects of speed on war[^6]. While this is not a foregone conclusion, it is critical to know how important speed is to many aspects of techno-modern human existence. As with any emergent technology, its power to control or dominate has been a historical reality throughout human history. 
 
