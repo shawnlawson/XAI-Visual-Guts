@@ -50,7 +50,7 @@ Animations were created and sent to the musicians. They made several recordings 
 
 # Credits
 
-Vilolist - [Chris Fisher-Lochhead](http://cflmusic.com)
+Violist - [Chris Fisher-Lochhead](http://cflmusic.com)
 
 Electronic Instrument System (EIS) - [Michael Century](http://nextcentury.ca)
 
