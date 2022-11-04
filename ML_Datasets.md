@@ -18,12 +18,14 @@ Samples of the datasets during training:
 
 FID is a way of assessing how close a stylegan generated image matches a real image. Lower numbers are better. FID scores for the Flicker Face High Quality (FFHQ) is typically between 4 and 2.
 
-Final  Fréchet Inception Distance (FiD) scores:
-Set 1   9.
-Set 2   20.
-Set 3   114.385   not used in final animation
-Set 4   7.
-Set 5   30.
+
+| Final | Fréchet Inception Distance (FiD) scores: |
+| --- | --- |
+| Set 1  |  9. |
+| Set 2  |  20. |
+| Set 3  | 114.385   not used in final animation |
+| Set 4  | 7. |
+| Set 5  | 30. |
 
 
 [^1]: [https://github.com/NVlabs/ffhq-dataset](https://github.com/NVlabs/ffhq-dataset)

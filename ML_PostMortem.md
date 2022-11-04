@@ -7,7 +7,7 @@ Going into this project, I held a lot of concerns about machine learning (ML) re
 
 Despite an existing large number of open source datasets[^1], I felt it was best to capture my own data set for this project. Even if the public data sets are open source, how do I know whose data it really is? Who owns it? Did they give permission? Do the sources of the data even know they are data? For example, looking at pre-built neural nets (NN)[^2]: some have copyright information and some don't. Some are created from other artists' work without their knowledge. Theoretically, I can now create an nearly infinite number of paintings in the likeness of another artist's style using NN. Is this acceptable? Should the artist receive royalties? 
 
-Where data comes from has an incredible impact on the final NN as discovered and critiqued by Crawford and Paglen[^3]. Moreover, insufficient data creates instances of experienced racism, like that of Joy Buolamwini who created the Algorithm Justice League[^4]. 
+Where data comes from has an incredible impact on the final NN as discovered and critiqued by Crawford and Paglen[^3]. Moreover, insufficient data creates instances of experienced racism, like that of Joy Buolamwini who created the Algorithmic Justice League[^4].
 
 A method to approach many issues and questions around _data_ is through D'Ignazio and Klein's concept of Data Feminism: 
 
